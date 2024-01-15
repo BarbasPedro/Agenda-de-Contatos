@@ -1,0 +1,36 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+header {
+  font-size: 1.8rem;
+}
+
+body {
+  padding-top: 100px;
+  background-color: rgb(240, 218, 195);
+}
+
+form input,
+form button {
+  display: inline;
+  margin: 8px;
+  padding: 8px;
+}
+
+form img {
+  width: 30px;
+}
+
+table th {
+  font-size: 1.5rem;
+  text-align: center;
+  padding: 10px;
+}
+
+table td {
+  text-align: center;
+  padding: 10px;
+}
